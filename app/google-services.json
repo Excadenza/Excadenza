@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "241730372199",
+    "project_id": "excadenza",
+    "storage_bucket": "excadenza.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:241730372199:android:adc782a4e48545e64d0ac2",
+        "android_client_info": {
+          "package_name": "com.excadenza"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "241730372199-iglcsctg66nrh5ufrobqm0vi3l664d88.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIvSTqZ5q3lW0NdAhy5IIf7feF0m-xBCM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "241730372199-iglcsctg66nrh5ufrobqm0vi3l664d88.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
